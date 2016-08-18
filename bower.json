@@ -1,0 +1,17 @@
+{
+    "name": "arya-googlefont",
+    "license": "OFL",
+    "authors": [
+        "Multiple Designers"
+    ],
+    "homepage": "https://fonts.google.com/",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/google-fonts-bower/arya-bower.git"
+    },
+    "description": "Arya font",
+    "keywords": [
+        "font",
+        "SANS_SERIF"
+    ]
+}
